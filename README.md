@@ -1,2 +1,2 @@
-# ML-ASSIGNMENT-santander-customer-transaction-prediction-
+# ML--santander-customer-transaction-prediction-
 This is kaggle competition solution.
